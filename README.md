@@ -1046,12 +1046,3 @@ This DPI engine demonstrates:
 The key insight is that even HTTPS traffic leaks the destination domain in the TLS handshake, allowing network operators to identify and control application usage.
 
 ---
-
-
-
-If you have questions about any part of this project, the code is well-commented and follows the same flow described in this document. Start with the simple version (`main_working.cpp`) to understand the concepts, then move to the multi-threaded version (`dpi_mt.cpp`) to see how parallelism is added.
-
-Happy learning! 🚀
-=======
-# Packet_analyzer
->>>>>>> cc1d1341477ae717a834635c57630368b6472e91
